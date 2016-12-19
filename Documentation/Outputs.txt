@@ -1,0 +1,13 @@
+Outputs
+- Lock left door
+- Lock right door
+- Store person ID
+- Unlock left door
+- Unlock right door
+- Store weight
+- Close left door
+- Close right door
+- Lock left door
+- Lock right door
+- Deny entry
+- Deny exit

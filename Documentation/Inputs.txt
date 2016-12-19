@@ -1,0 +1,12 @@
+Inputs
+- Left scan
+- Right scan
+- Left open
+- Right open
+- Left close
+- Right close
+- Guard left unlock
+- Guard right unlock
+- Guard left lock
+- Guard right lock
+- Weight scale

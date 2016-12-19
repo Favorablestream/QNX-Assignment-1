@@ -1,0 +1,7 @@
+Transition Events
+- Person requests entry (scans card) and ID is recorded
+- Guard unlocks a door
+- Guard locks a door
+- Person opens a door and enters/exits
+- Door closes automatically
+- Person is weighed and weight is stored

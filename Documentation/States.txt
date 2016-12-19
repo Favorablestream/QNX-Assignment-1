@@ -1,0 +1,25 @@
+States
+- start 
+- idle 
+- requestedLeftEntry 
+- requestedRightEntry
+- authenticatedLeft 
+- authenticatedRight
+- deniedEntry 
+- unlockedLeft 
+- unlockedRight 
+- enteredLeft 
+- enteredRight 
+- weighed 
+- closedLeft 
+- closedRight 
+- lockedLeft 
+- lockedRight 
+- requestedLeftExit
+- requestedRightExit
+- openedLeftExit 
+- openedRightExit 
+- closedLeftExit 
+- closedRightExit 
+- lockedLeftExit 
+- lockedRightExit 
